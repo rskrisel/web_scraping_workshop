@@ -1,4 +1,4 @@
-# Web Scraping in Python
+# Web Scraping Media URLs in Python
 
 In this workshop, we will learn how to retrieve text data using web scraping methods. 
 
